@@ -7,9 +7,9 @@ compiled file is located at target/release/<br>
 * example <br>
 execin command duration <br>
 ```bash
-execin ls 10
+execin.exe dir 10
 ```
 run without compile <br>
 ```bash
-cargo run ls 10
+cargo run dir 10
 ```
